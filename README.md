@@ -2,4 +2,4 @@
 
 mult: Multiplies two numbers using addition.
 
-vowel: Counts the number of vowels in given string.
+vowel: Counts the number of vowels in a given string.
