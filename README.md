@@ -1,5 +1,5 @@
 ## Personal C Programs:
 
-mult - Multiplies two numbers using addition.
+**mult** - Multiplies two numbers using addition.
 
-vowel - Counts the number of vowels in a given string.
+**vowel** - Counts the number of vowels in a given string.
